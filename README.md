@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Pinterest Header Banner -->
-<img src="alif_header_banner.gif" width="100%" alt="Alif Constantine - Header Banner" />
+<img src="assets/alif_header_banner.gif" width="100%" alt="Alif Constantine - Header Banner" />
 
 <!-- Profile Badges Counter -->
 <p align="center">
