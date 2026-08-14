@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Alif%20Constantine&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20AI%20Application%20Developer%20%7C%20Builder&subfontSize=16&subfontColor=d1d5db" width="100%" alt="Header Banner" />
+<!-- Animated Pinterest Header Banner -->
+<img src="alif_header_banner.gif" width="100%" alt="Alif Constantine - Header Banner" />
 
 <!-- Profile Badges Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alifconstantine&label=PROFILE+VIEWS&style=for-the-badge&color=24292e" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/alifconstantine?label=FOLLOWERS&style=for-the-badge&color=1f2937" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=alifconstantine&label=PROFILE+VIEWS&style=for-the-badge&color=1e293b" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/alifconstantine?label=FOLLOWERS&style=for-the-badge&color=0f172a" alt="Followers" />
 </p>
 
 <!-- Social Badges -->
