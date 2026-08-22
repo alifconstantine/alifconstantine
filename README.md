@@ -24,7 +24,7 @@
 
 ```typescript
 const alif: Developer = {
-  name: "Alif Constantine",
+  name: "Alif Farhanul Hakim",
   role: "Full-Stack AI Application Developer",
   location: "Indonesia",
   focus: [
